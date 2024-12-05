@@ -1,0 +1,17 @@
+2024-11-26 20:56:19 - Player: 2, Server: Game_Server_2, Processing Time: 1.429s
+2024-11-26 20:56:19 - Player: 1, Server: Game_Server_1, Processing Time: 2.105s
+2024-11-26 20:56:20 - Player: 3, Server: Game_Server_3, Processing Time: 2.098s
+2024-11-26 20:56:21 - Player: 5, Server: Game_Server_2, Processing Time: 1.841s
+2024-11-26 20:56:22 - Player: 4, Server: Game_Server_1, Processing Time: 2.365s
+2024-11-26 20:56:22 - Player: 6, Server: Game_Server_3, Processing Time: 1.869s
+2024-11-26 20:56:23 - Player: 8, Server: Game_Server_2, Processing Time: 2.544s
+2024-11-26 20:56:24 - Player: 7, Server: Game_Server_1, Processing Time: 1.805s
+2024-11-26 20:56:25 - Player: 9, Server: Game_Server_3, Processing Time: 2.486s
+2024-11-26 20:56:25 - Player: 10, Server: Game_Server_1, Processing Time: 1.034s
+2024-11-26 20:56:26 - Player: 11, Server: Game_Server_2, Processing Time: 2.917s
+2024-11-26 20:56:27 - Player: 12, Server: Game_Server_3, Processing Time: 2.401s
+2024-11-26 20:56:27 - Player: 13, Server: Game_Server_1, Processing Time: 2.538s
+2024-11-26 20:56:28 - Player: 14, Server: Game_Server_2, Processing Time: 1.533s
+2024-11-26 20:56:29 - Player: 17, Server: Game_Server_2, Processing Time: 1.093s
+2024-11-26 20:56:30 - Player: 16, Server: Game_Server_1, Processing Time: 2.200s
+2024-11-26 20:56:30 - Player: 15, Server: Game_Server_3, Processing Time: 2.662s
